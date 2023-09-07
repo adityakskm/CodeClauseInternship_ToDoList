@@ -16,7 +16,7 @@ Customizable Styling: The user interface is designed with a visually appealing l
 
 "Action Plan" is a practical tool for individuals seeking an efficient way to manage their daily tasks and keep track of their progress, helping them stay organized and on top of their responsibilities.
 
-
+Credits:  @dev_ression   Devression https://github.com/devression/Todo-List-App
 
 
 
